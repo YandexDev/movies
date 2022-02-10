@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+structure_bd.pdf
+.idea/
 __pycache__/
 *.py[cod]
 *$py.class
